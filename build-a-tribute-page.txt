@@ -1,0 +1,122 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <header>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <title>Stephen Sondheim</title>
+  </header>
+  <body>
+    <main id="main">
+      <h1 id="title">Stephen Sondheim</h1>
+      <div id="img-div"><img id="image" src="https://npr.brightspotcdn.com/dims4/default/3ecfdac/2147483647/strip/true/crop/2379x1383+0+0/resize/880x512!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F40%2F4708e4f3421f9918a56f5ed7028f%2Fstephen-sondheim-finishing-the-hat.jpg" alt="Stephen Sondheim looks at sheet music"><figcaption id="img-caption">Stephen Sondheim sits down to compose in his home.</figcaption></div>
+      <p id="tribute-info">This page is a tribute to the Broadway composer and lyricist Stephen Sondheim.</p>
+      <div id="timeline">
+        <h3 id="timeline">His life and career at a glance...</h3>
+        <ul id="timeline">
+          <li><strong>1930</strong> Born in New York, NY
+          </li>
+          <li><strong>1940</strong> Began his friendship with Oscar Hammerstein II
+          </li>
+          <li><strong>1950</strong> Graduate magna cum laude from Williams College 
+          </li>
+          <li><strong>1954</strong> Met Leonard Bernstein and began working as a lyricist for <em>West Side Story</em>
+          </li>
+          <li><strong>1959</strong> Collaborated with Jule Styne and wrote lyrics for <em>Gypsy</em>
+          </li>
+          <li><strong>1962</strong> <em>A Funny Thing Happened on the Way to the Forum</em> opened on Broadway, the first musical for which Sondheim wrote both music and lyrics
+          </li>
+          <li><strong>1970</strong> Began his collaboration with Hal Prince
+          </li>
+          <li><strong>1973</strong> Elected as the sixteenth president of the Dramatist's Guild of America
+          </li>
+          <li><strong>1984</strong> Began his collaboration with James Lapine
+          </li>
+          <li><strong>2017</strong> Married Jeffrey Scott Romley
+          </li>
+          <li><strong>2021</strong> Died at his home in Roxbury, Connecticut
+          </li>
+        </ul>
+        </div>
+        <div id="musicals">
+          <h3 id="musicals">Works for the stage (as composer and lyricist)</h3>
+          <ul id="musicals">
+            <li><em>Saturday Night</em><br>(opened on Broadway in 2000)</br></li>
+            <li><em>A Funny Thing Happened on the Way to the Forum</em></li>
+            <li><em>	Anyone Can Whistle</em></li>
+            <li><em>	Company</em></li>
+            <li><em>Follies</em></li>
+            <li><em>A Little Night Music</em></li>
+            <li><em>The Frogs</em></li>
+            <li><em>Pacific Overtures</em></li>
+            <li><em>	Sweeney Todd</em></li>
+            <li><em>Merrily We Roll Along</em></li>
+            <li><em>Sunday in the Park with George</em></li>
+            <li><em>Into the Woods</em></li>
+            <li><em>	Assassins</em></li>
+            <li><em>Passion</em></li>
+            <li><em>Road Show</em></li>
+        </div>
+        <div id="learn">
+          <h3>Learn More</h3>
+      <p>For further reading about the life and works of Stephen Sondheim, explore his autobiographical writing - <em>Finishing the Hat: Collected Lyrics (1954-1981)</em> and <em>Look, I Made a Hat: Collected Lyrics (1981–2011) with Attendant Comments, Amplifications, Dogmas, Harangues, Digressions, Anecdotes and Miscellany</em>.</p> 
+      <p>Read Stephen Sondheim's <a id="tribute-link" href="https://www.nytimes.com/2021/11/26/theater/stephen-sondheim-dead.html" target="_blank">obituary</a> in the New York Times.</p>
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+main {
+background-coor: #F1F2F6;
+}
+h1, h3 {
+  font-family: garamond, georgia;
+  color: #27187E
+  }
+h1 {
+  font-size: 50px;
+text-align: center;
+}
+#img-caption {
+  font-family: garamond, georgia;
+color: #FF8600;
+text-align: center;
+}
+img {
+  display: block;
+max-width: 100%;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+}
+#tribute-info {
+  font-family: garamond, georgia;
+font-size: 18px;
+color: #758bfd;
+font-style: italic;
+font-weight: bold;
+text-align: center;
+}
+h3 {
+  font-size: 25px
+  }
+#learn, ul[id="timeline"], ul[id="musicals"] {
+  font-family: garamond, georgia;
+color:
+}
+a:link {
+  color: FF8600;
+}
+a:hover {
+  color: #aeb8fe
+}
+a:visited {
+  color: #27187e;
+}
+
+** end of undefined **
+
